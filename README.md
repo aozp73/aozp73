@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=B2D8B2&height=100&&section=header&text=Lee%20SangHyun&fontSize=40&fontAlignY=48&desc=Junior%20Developer&descAlignY=78&descAlign=60)
 
-<img width="80%" src="https://github.com/aozp73/aozp73/assets/122352251/6e72a182-2cde-4d11-b6f1-f71d136015a0"/>
+<img width="80%" src="https://github.com/aozp73/aozp73/assets/122352251/6ac91f7c-85fe-4a23-a0d2-bb015a866b92"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Blog - <a href="https://www.naver.com" target="_blank">https://blog.naver.com/aozp73</a>)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Blog - <a href="https://www.naver.com" target="_blank">https://blog.naver.com/aozp73</a>)
 <hr>
 
 <h2> &nbsp;Languages and Tools </h2>  
 
-|  |  |
+| 분&nbsp;&nbsp;&nbsp;류 | 내&nbsp;&nbsp;&nbsp;용 |
 |---------------------|--------|
 | Back-End             | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=MySQL&logoColor=white) ![Mybatis](https://img.shields.io/badge/MyBatis-C70D2C.svg?style=flat-square) ![JPA](https://img.shields.io/badge/JPA-A5915F.svg?style=flat-square)| 
 | Front-End            | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) |
@@ -19,7 +19,7 @@
 
 <h2> &nbsp;Mini Project </h2>
 
-| 프로젝트 | 내용 |
+| 프로젝트 | 내&nbsp;&nbsp;&nbsp;용 |
 |---------------------|--------|
 | 블로그 만들기 (초기) | - 기&nbsp;&nbsp;&nbsp;&nbsp;간 : &nbsp;&nbsp;2023.02.03 ~ 2023.02.21 <br> - 주&nbsp;&nbsp;&nbsp;&nbsp;제 : &nbsp;&nbsp;블로그<br> - 인&nbsp;&nbsp;&nbsp;&nbsp;원 : &nbsp;&nbsp;개인 <br> - 상세 내용 : &nbsp;&nbsp; |
 | 1차 프로젝트 | - 기&nbsp;&nbsp;&nbsp;&nbsp;간 : &nbsp;&nbsp;2023.02.21 ~ 2023.03.07 <br> - 주&nbsp;&nbsp;&nbsp;&nbsp;제 : &nbsp;&nbsp;구인공고 (휴먼 클라우드 웹) <br> - 인&nbsp;&nbsp;&nbsp;&nbsp;원 : &nbsp;&nbsp;3명 <br> - 상세 내용 : &nbsp;&nbsp;|
