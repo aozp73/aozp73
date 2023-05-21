@@ -100,7 +100,8 @@
 <hr>
 
 ### 발표 자료
-[미니프로젝트_2조.pdf](https://github.com/NomadHuns/mini-project-1/files/11340888/_2.pdf)
+
+[1차_미니프로젝트_발표PPT](1차_프로젝트_PPT.pptx)
 
 <br>
 <hr>
