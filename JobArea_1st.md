@@ -6,6 +6,7 @@
   <img width="80%" src="https://github.com/aozp73/aozp73/assets/122352251/9b41a436-62c6-4add-88a0-49c90409970a"/>
 </div> <br>
 
+&nbsp; - Back-End, Front-End 각 Topic 각자 진행 <br>
 &nbsp; - 구직자와 채용기업 2개의 Role을 두어, 각각의 UX/UI를 고려하여 기능구현 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(상세 기능은 아래에서 설명)
 
