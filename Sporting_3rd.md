@@ -1,5 +1,13 @@
 # Sporting 어플리케이션
-![로고](https://user-images.githubusercontent.com/118786401/235388216-78fb76d0-b9ec-4dad-ab40-c12c2a86176b.png)
+<div align="center">
+        <img width="26%" src="https://user-images.githubusercontent.com/118786401/235388216-78fb76d0-b9ec-4dad-ab40-c12c2a86176b.png"/>
+</div>
+
+<br>
+
+&nbsp; - Back-End 3명, Front-End 2명 (Back-End 팀장으로 참가) <br>
+&nbsp; - 경기장 대여기업, 일반인, 관리자 3개의 Role을 두어, 각각의 UX/UI를 고려하여 기능구현 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(상세 기능은 아래에서 설명)
 
 <br>
 
