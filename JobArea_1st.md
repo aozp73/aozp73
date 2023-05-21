@@ -15,7 +15,7 @@
 ### 개인 수행기능
 #### 전체요약
 <div align="center">
-    <img width="60%" src="https://github.com/aozp73/aozp73/assets/122352251/bd9d19d3-07f0-45fb-a627-d724f4acad37"/>
+    <img width="60%" src="https://github.com/aozp73/aozp73/assets/122352251/5b2ca42d-dd3b-4c7b-be10-6af7c3f2fc86"/>
 </div>
 
 #### 상세설명 (기술 블로그 포함)
