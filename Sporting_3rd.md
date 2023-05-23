@@ -20,34 +20,34 @@
 <br>
 
 ### 상세설명 (기술 블로그 포함)
-- 테스트 - JPA Repository Test : (https://blog.naver.com/aozp73/223107831358)
+- 테스트 - JPA Repository Test : DB 설계 후, Test 진행 ([JPA Repository Test - 기술 블로그](https://blog.naver.com/aozp73/223107831358))
 
 <br>
 
 - 경기장 - 등록 기능 : &nbsp;경기장 등록시 사전 S3에 넣어놓은 경기장 Default 사진을 함께 DB에 저장 (카테고리별로 상이)<br>
-(https://blog.naver.com/aozp73/223077210498), (https://blog.naver.com/aozp73/223077219273)
+([등록 기능 - 기술 블로그 1](https://blog.naver.com/aozp73/223077210498)), ([등록 기능 - 기술 블로그 2](https://blog.naver.com/aozp73/223077219273))
 - 경기장 - 리스트 조회 기능 : &nbsp;QueryString으로 넘어온 KeyWord값에 따라 카테고리에 맞는 경기장 리스트 응답<br>
-(https://blog.naver.com/aozp73/223077309184), (https://blog.naver.com/aozp73/223078084488)
+([리스트 조회 - 기술 블로그 1](https://blog.naver.com/aozp73/223077309184)), ([리스트 조회 기능 - 기술 블로그 2](https://blog.naver.com/aozp73/223078084488))
 - 경기장 - 기업 본인이 등록한 리스트 조회 기능 : &nbsp;이전 토픽과 동일하게 진행, JPA-QueryDSL활용<br>
-(https://blog.naver.com/aozp73/223078241849), (https://blog.naver.com/aozp73/223078243514)
+([등록 리스트 조회 - 기술 블로그 1](https://blog.naver.com/aozp73/223078241849)), ([등록 리스트 조회 - 기술 블로그 2](https://blog.naver.com/aozp73/223078243514))
 - 경기장 - 수정 페이지 요청 : &nbsp;수정 페이지 요청시, 미리 값이 입력될 수 있게 DB 조회 후 응답<br>
-(https://blog.naver.com/aozp73/223078516338), (https://blog.naver.com/aozp73/223079160319)
+([수정 페이지 요청 - 기술 블로그 1](https://blog.naver.com/aozp73/223078516338)), ([수정 페이지 요청 - 기술 블로그 2](https://blog.naver.com/aozp73/223079160319))
 - 경기장 - 수정 : 경기장 수정 페이지엔 코트 수정이 포함되어 있음. Java의 Map, Stream 문법 활용하여 진행 
-(https://blog.naver.com/aozp73/223084822080)
+([수정 - 기술 블로그](https://blog.naver.com/aozp73/223084822080))
 
 <br>
 
-- 예약&결제 - 경기장 예약 및 결제 기능 : &nbsp;BootPay를 통해 App이 넘겨준 데이터 검증 후 DB 저장 (https://blog.naver.com/aozp73/223093098448)
-- 예약&결제 - 나의 경기장 예약 리스트 조회 : &nbsp;QueryDSL의 goe()를 활용해 유효한 리스트만 응답 (https://blog.naver.com/aozp73/223093110031)
-- 테스트 - SpringBoot 통합 테스트 : &nbsp;Topic 진행 완료 후, 통합 테스트 진행 (https://blog.naver.com/aozp73/223096085205)
-- API문서 - RestDoc 연동 (API 자동 문서화) : &nbsp;통합 테스트와 연계해 자동 API 문서화 활용 (https://blog.naver.com/aozp73/223096094596)
+- 예약&결제 - 경기장 예약 및 결제 기능 : &nbsp;BootPay를 통해 App이 넘겨준 데이터 검증 후 DB 저장 ([예약/결제 - 기술 블로그](https://blog.naver.com/aozp73/223093098448))
+- 예약&결제 - 나의 경기장 예약 리스트 조회 : &nbsp;QueryDSL의 goe()를 활용해 유효한 리스트만 응답 ([예약 리스트 - 기술 블로그](https://blog.naver.com/aozp73/223093110031))
+- 테스트 - SpringBoot 통합 테스트 : &nbsp;Topic 진행 완료 후, 통합 테스트 진행 ([통합 테스트 - 기술 블로그](https://blog.naver.com/aozp73/223096085205))
+- API문서 - RestDoc 연동 (API 자동 문서화) : &nbsp;통합 테스트와 연계해 자동 API 문서화 활용 ([RestDoc - 기술 블로그](https://blog.naver.com/aozp73/223096094596))
 
 <br>
 
-- 관리자 - 이메일 전송 기능 구현 : &nbsp;간단한 구글 API를 활용하여 원하는 사용자에게 이메일 전송 (https://blog.naver.com/aozp73/223089211518)
-- 관리자 - 경기장 등록승인/비활성화/재활성화 기능 구현 : &nbsp;Status를 활용해 각 기능 구현(https://blog.naver.com/aozp73/223107834823)
-- 관리자 - 통계 차트 구현 : &nbsp;관리자가 App을 운영함에 있어 관련 데이터를 통계로 보여주고 싶다는 취지로 진행
-(https://blog.naver.com/aozp73/223092115322), (https://blog.naver.com/aozp73/223092170027)
+- 관리자 - 이메일 전송 기능 구현 : &nbsp;간단한 구글 API를 활용하여 원하는 사용자에게 이메일 전송 ([이메일 API - 기술 블로그](https://blog.naver.com/aozp73/223089211518))
+- 관리자 - 경기장 등록승인/비활성화/재활성화 기능 구현 : &nbsp;Status를 활용해 각 기능 구현 ([등록승인/비활성/재활성 - 기술 블로그](https://blog.naver.com/aozp73/223107834823))
+- 관리자 - 통계 차트 구현 : &nbsp;관리자가 App을 운영함에 있어 관련 데이터를 통계로 보여주고 싶다는 취지로 진행<br>
+([접속률 통계 - 기술 블로그](https://blog.naver.com/aozp73/223092115322)), ([게시글 조회수 - 기술 블로그](https://blog.naver.com/aozp73/223092170027))
 
 <br>
 
