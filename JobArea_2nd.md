@@ -20,37 +20,33 @@
 
 #### 상세설명 (기술 블로그 포함)
 ##### SpringBoot 통합 테스트
-- Controller, Service, Repository 등 코드 진행 후 최종적으로 Test하기 위해 진행
-(https://blog.naver.com/aozp73/223055990816)
+- Controller, Service, Repository 등 코드 진행 후 최종적으로 Test하기 위해 진행 ([통합 테스트 - 기술 블로그](https://blog.naver.com/aozp73/223055990816))
 ##### Controller Junit 단위 테스트
-- 통합 테스트에 비해 상당히 가볍게 진행 가능, 모듈화 하여 layer 진행마다 테스트 가능
-(https://blog.naver.com/aozp73/223057284808)
+- 통합 테스트에 비해 상당히 가볍게 진행 가능, 모듈화 하여 layer 진행마다 테스트 가능 ([단위 테스트 - 기술 블로그](https://blog.naver.com/aozp73/223057284808))
 ##### AWS 배포
-- MobaXterm, AWS, EC2 환경에서 배포 진행, 배포 후 요청 성공 여부 확인
-(https://blog.naver.com/aozp73/223055991744)
+- MobaXterm, AWS, EC2 환경에서 배포 진행, 배포 후 요청 성공 여부 확인 ([AWS 배포 - 기술 블로그](https://blog.naver.com/aozp73/223055991744))
 ##### @Vaild, 유효성체크
-- @Vaild 어노테이션과 BindingResult를 활용하여 간편한 유효성 체크 진행 <br>
-(update - https://blog.naver.com/aozp73/223053532912), (save - https://blog.naver.com/aozp73/223053554098)
+- @Vaild 어노테이션과 BindingResult를 활용하여 간편한 유효성 체크 진행 ([@Vaild, update - 기술 블로그](https://blog.naver.com/aozp73/223053532912)), ([@Vaild, save - 기술 블로그](https://blog.naver.com/aozp73/223053554098))
 ##### Board, Love Topic 주석추가
-- 협업 간 부재 시 또는 퇴사 시 활용 목적. 상세한 주석 추가 <br>
-(board - https://blog.naver.com/aozp73/223054465094), (love - https://blog.naver.com/aozp73/223054507737)
+- 협업 간 부재 시 또는 퇴사 시 활용 목적. 상세한 주석 추가 ([board 주석추가 - 기술 블로그](https://blog.naver.com/aozp73/223054465094)), ([love 주석추가 - 기술 블로그](https://blog.naver.com/aozp73/223054507737))
 
 ##### Board-Topic RestAPI 
  ① Mybatis로 진행함에 있어 ResultMap을 활용하여 DTO안을 입체적으로 변환하여 응답 <br>
  ② 전체적으로 입체적인 DTO 생성 (내부 클래스 활용), XML파일의 ResultMap을 공통적으로 사용 <br>
  ③ 따라서, 해당 프로젝트에선 과정을 정리한 기술 블로그만 기입 
-- MyBoardList : (https://blog.naver.com/aozp73/223053078486)
-- MyScrapBoardList : (https://blog.naver.com/aozp73/223053083854)
-- MyBoardDelete : (https://blog.naver.com/aozp73/223053135850)
-- updateForm : (https://blog.naver.com/aozp73/223053182531)
-- saveForm : (https://blog.naver.com/aozp73/223053183458)
-- update : (https://blog.naver.com/aozp73/223052709296)
-- save : (https://blog.naver.com/aozp73/223052732533)
-- boardList : (https://blog.naver.com/aozp73/223053185644)
-- detail : (https://blog.naver.com/aozp73/223053187899)
+ ([]())
+- MyBoardList :  ([해당 Topic - 기술 블로그](https://blog.naver.com/aozp73/223053078486))
+- MyScrapBoardList : ([해당 Topic - 기술 블로그](https://blog.naver.com/aozp73/223053083854))
+- MyBoardDelete : ([해당 Topic - 기술 블로그](https://blog.naver.com/aozp73/223053135850))
+- updateForm : ([해당 Topic - 기술 블로그](https://blog.naver.com/aozp73/223053182531))
+- saveForm : ([해당 Topic - 기술 블로그](https://blog.naver.com/aozp73/223053183458))
+- update : ([해당 Topic - 기술 블로그](https://blog.naver.com/aozp73/223052709296))
+- save : ([해당 Topic - 기술 블로그](https://blog.naver.com/aozp73/223052732533))
+- boardList : ([해당 Topic - 기술 블로그](https://blog.naver.com/aozp73/223053185644))
+- detail : ([해당 Topic - 기술 블로그](https://blog.naver.com/aozp73/223053187899))
 
 ##### Love-Topic RestAPI
-- Insert/Delete : (https://blog.naver.com/aozp73/223053160874)
+- Insert/Delete : ([해당 Topic - 기술 블로그](https://blog.naver.com/aozp73/223053160874))
 
 <br>
 <hr>
