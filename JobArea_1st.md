@@ -22,25 +22,24 @@
 #### 상세설명 (기술 블로그 포함)
 ##### Front
  ※ Front 구현 시 사전 KaKaOven을 통한 화면설계 이 후 진행 (블로그에 첨부)
-- 공고 목록 페이지 : BootStrap과 Grid 사용, 카드 형식으로 마우스를 올릴 시 테두리 색 변경 (https://blog.naver.com/aozp73/223025012888)
-- 공고 상세 페이지 : 다른 페이지와 전체 LayOut 통일, 전체적으로 깔끔한 컨셉으로 진행 (https://blog.naver.com/aozp73/223025021787)
-- 정보 수정 페이지 : 회원가입 시 간략한 정보를 받고, 수정 페이지에서 추가 정보를 받게 구현 (https://blog.naver.com/aozp73/223025048923)
+- 공고 목록 페이지 : BootStrap과 Grid 사용, 카드 형식으로 마우스를 올릴 시 테두리 색 변경 ([공고 목록 페이지 - 기술 블로그](https://blog.naver.com/aozp73/223025012888))
+- 공고 상세 페이지 : 다른 페이지와 전체 LayOut 통일, 전체적으로 깔끔한 컨셉으로 진행 ([공고 상세 페이지 - 기술 블로그](https://blog.naver.com/aozp73/223025021787))
+- 정보 수정 페이지 : 회원가입 시 간략한 정보를 받고, 수정 페이지에서 추가 정보를 받게 구현 ([공고 수정 페이지 - 기술 블로그](https://blog.naver.com/aozp73/223025048923))
 
 ##### Back
-- 공고 정렬 : 공고 등록시 8가지 언어를 체크박스로 입력, 구직자 입장에서 보유기술 유사한 순 정렬 (https://blog.naver.com/aozp73/223033004414)
-- 기업 프로필사진 : input태그를 통해 Server로 전송, 하드디스크에 저장 후 저장경로를 View에 응답 (https://blog.naver.com/aozp73/223030746887)
-- 유저 중복체크 : onchange, Ajax통신을 통해 부분 리로딩으로 진행. empty(), append() 활용 (https://blog.naver.com/aozp73/223031465567)
-- 공고, 인재 목록 페이징 : JPA가 아닌 MyBatis를 활용한 프로젝트, 동적 Query를 활용하여 정렬기준에 맞게 페이징 
-&nbsp;&nbsp;(https://blog.naver.com/aozp73/223036689150), (https://blog.naver.com/aozp73/223036707908)
-- 공고 구독기능 : 하트 아이콘을 클릭하여 목록,상세보기 모두 반영. 구독한 공고는 즐겨찾기 페이지에서 따로 관리가능
-&nbsp;&nbsp;(https://blog.naver.com/aozp73/223036754484), (https://blog.naver.com/aozp73/223036768743)
+- 공고 정렬 : 공고 등록시 8가지 언어를 체크박스로 입력, 구직자 입장에서 보유기술 유사한 순 정렬 ([공고 정렬 - 기술 블로그](https://blog.naver.com/aozp73/223033004414)) 
+- 기업 프로필사진 : input태그를 통해 Server로 전송, 하드디스크에 저장 후 저장경로를 View에 응답 ([기업 프로필사진 - 기술 블로그](https://blog.naver.com/aozp73/223030746887))
+- 유저 중복체크 : onchange, Ajax통신을 통해 부분 리로딩으로 진행. empty(), append() 활용 ([유저 중복체크 - 기술 블로그](https://blog.naver.com/aozp73/223031465567)) 
+- 공고, 인재 목록 페이징 : JPA가 아닌 MyBatis를 활용한 프로젝트, 동적 Query를 활용하여 정렬기준에 맞게 페이징 <br>
+&nbsp;&nbsp;([공고,인제 목록 페이징 1 - 기술 블로그](https://blog.naver.com/aozp73/223036689150)), ([공고,인제 목록 페이징 2 - 기술 블로그](https://blog.naver.com/aozp73/223036707908))
+- 공고 구독기능 : 하트 아이콘을 클릭하여 목록,상세보기 모두 반영. 구독한 공고는 즐겨찾기 페이지에서 따로 관리가능 <br>
+&nbsp;&nbsp;([공고 구독기능 1 - 기술 블로그](https://blog.naver.com/aozp73/223036754484)), ([공고 구독기능 2 - 기술 블로그](https://blog.naver.com/aozp73/223036768743)) 
 - D-Day 기능 : SQL DATEDIFF(DAY, now(), deadline) 문법을 통해 현재 날짜와의 차이를 구하고, View에서 차이가 0, +인지 삼항연산자 조건을 걸어 출력
-
-- 공고 쓰기 : 공고 항목에 대한 유효성 체크, 경력(3년이상 ~ 5년미만) 등은 DB에 숫자(3)로 저장 (https://blog.naver.com/aozp73/223026660843)
-- 공고 수정 : 페이지 요청 - 권한체크 후 해당 공고 내 응답, 수정 요청 - 권한체크 후 UPDATE (https://blog.naver.com/aozp73/223026692873)
-- 공고 목록보기 : 뿌려야 될 데이터 파악, InnerJoin Query로 DB 조회 후 DTO로 응답 (https://blog.naver.com/aozp73/223025507128)
-- 공고 상세보기 : PathVariable로 요청 공고 PK값을 받고, where 조건절로 DB 조회 후 DTO로 응답 (https://blog.naver.com/aozp73/223025513525)
-- 내가 작성한 공고목록 : 간단하게 where 절에 해당 userID PK값을 걸어서 List DB조회 (https://blog.naver.com/aozp73/223030667707)
+- 공고 쓰기 : 공고 항목에 대한 유효성 체크, 경력(3년이상 ~ 5년미만) 등은 DB에 숫자(3)로 저장 ([공고 쓰기 - 기술 블로그](https://blog.naver.com/aozp73/223026660843))
+- 공고 수정 : 페이지 요청 - 권한체크 후 해당 공고 내 응답, 수정 요청 - 권한체크 후 UPDATE ([공고 수정 - 기술 블로그](https://blog.naver.com/aozp73/223026692873))
+- 공고 목록보기 : 뿌려야 될 데이터 파악, InnerJoin Query로 DB 조회 후 DTO로 응답 ([공고 목록보기 - 기술 블로그](https://blog.naver.com/aozp73/223025507128))
+- 공고 상세보기 : PathVariable로 요청 공고 PK값을 받고, where 조건절로 DB 조회 후 DTO로 응답 ([공고 상세보기 - 기술 블로그](https://blog.naver.com/aozp73/223025513525))
+- 내가 작성한 공고목록 : 간단하게 where 절에 해당 userID PK값을 걸어서 List DB조회 ([나의 공고목록 - 기술 블로그](https://blog.naver.com/aozp73/223030667707))
 
 <br>
 <hr>
