@@ -11,25 +11,25 @@
 ## 만들면서 배운 점
 #### HTTP Status
 - 200(OK), 201(Created), 400(Bad Request), 401(Unauthorized), 403(Forbidden), 500(Internal Server Error) 등
-- 위와 같은 상태코드를 Front에 응답하여 프로토콜에 따라 효율적인 결과 처리 및 인지 가능
+- Front에 위와 같은 상태코드를 응답하여, 정해진 프로토콜에 따라 효율적인 결과 처리 및 상호간 인지 가능
 #### CustomException 처리 (유효성/인증/권한)
-- 정상적인 접근 또는 PostMan을 통한 비정상적인 접근 시 유효성/인증/권한 처리를 해야 함
-- CustomException 처리를 하여, 어떤 과정으로 이런 처리를 할 수 있는지 학습
-- 해당 프로젝트 이후엔 Security, AOP, 리플렉션을 활용하여 처리하는 방법을 학습하였음
+- 정상적인 접근 또는 비정상적인 접근 시(postman 등) 유효성/인증/권한 처리 필요
+- CustomException 처리를 하여, 어떤 과정으로 위와 같은 처리가 가능한지 학습
+- 해당 프로젝트 이후엔 Security, AOP, 리플렉션 등을 활용하는 방법을 학습하였음
 #### Session 활용
-- Session을 활용하여 어떤 의미에선 RestFul한 상태로 이전에 왔던 어떤 사용자인지 기록
-- 인증 및 권한 처리에 활용할 수 있었으며, View에선 if문을 통해 로그인한 유저에게만 구별하여 아이콘 등을 출력 가능
+- Session을 활용하여 어떤 의미에선 RestFul한 상태로 진행. Request한 사용자가 이전에 왔던 어떤 사용자인지 확인가능
+- 인증 및 권한 처리에 활용할 수 있음. View단은 if문을 통해 로그인한 유저에게만 아이콘 등을 출력 가능
 #### BackEnd - FrontEnd 협업
-- Front에서는 최대한 화면을 그리는 것에 집중 해야함
-- 따라서, 비지니스 로직같은 경우 최대한 Back단에서 처리하여 넘겨줘야 함
+- Front는 최대한 화면 그리는 것에 집중 해야함
+- 따라서, 비지니스 로직같은 경우 Back단에서 최대한 처리 후 넘겨줘야 함
 #### Mybatis CRUD 및 Join Query
-- 기본적인 CRUD를 생성하여 진행
-- 여러 Table을 조회하여 뿌려야 할 경우 inner join, outer join 활용
-- 한방 Query & primitive한 Query로 여러번 조회하는 것을 배웠는데 모듈적인 측면에서는 primitive한 Query를 사용
+- 기본적인 CRUD 생성 후 진행
+- 특정 페이지에서 여러 Table 조회 후 뿌려야 한다면, inner join, outer join 등 활용
+- 한방 Query & Primitive한 Query로 여러번 조회하는 것을 배움. 모듈적인 측면에선 primitive한 Query를 활용하자
 #### DTO 생성
 - Request, Response 통신 시 DTO를 활용하여 데이터를 주고 받음
 - 여러 화면에서 공통적으로 데이터를 뿌리더라도 무조건 DTO는 별개로 생성
-- 추후에 요구사항이 어떻게 바뀔지 예측할 수 없으므로, 특정 화면에서 필요한 데이터가 달라질 가능성이 많음
+- 추후에 요구사항이 어떻게 바뀔지 예측할 수 없으므로, 특정 화면에서 필요한 데이터가 달라질 가능성이 
 </br>
 
 ## 기술스택
