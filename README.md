@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B6DCB6&height=180&section=header&text=Welcome%20!&fontAlignY=38&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=76819C&height=180&section=header&text=Welcome%20!&fontAlignY=38&fontSize=50)
 
 <h3 align="center">Junior Developer</h3>
 
